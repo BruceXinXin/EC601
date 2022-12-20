@@ -3,6 +3,9 @@
 For the convenience, I encapsulated Twitter operation into a class 'TwitterHelper'.
 It can help you construct url and authorize, then you can get the results.
 
+Currently, it supports get tweets by tweet id, get user id by username, and get user timeline by 
+user id.
+
 In the future, I can support more url format to make it more general.
 
 Providing some results:
