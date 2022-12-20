@@ -1,4 +1,4 @@
-The twitter analyze program.
+# The twitter analyze program.
 
 For the convenience, I encapsulated Twitter operation into a class 'TwitterHelper'.
 It can help you construct url and authorize, then you can get the results.
@@ -51,3 +51,4 @@ print(t_helper.get_data("tweets", tweet_fields="lang,created_at,text,author_id",
     }
 ]
 ```
+![image](https://user-images.githubusercontent.com/62280147/208575972-ee4c5caa-9cd1-48ae-8023-a042be20f398.png)
